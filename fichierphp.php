@@ -1,1 +1,3 @@
-<? echo ('hello world'); ?>
+<? 
+$text ='hello world';
+echo ($text); ?>
